@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Intro to bootstrap 4 test",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3301tahir/git-test.git"
+  },
+  "author": "Tahir Mohammedaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3301tahir/git-test/issues"
+  },
+  "homepage": "https://github.com/3301tahir/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
